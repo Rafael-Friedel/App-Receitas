@@ -1,16 +1,12 @@
-# 🚧 README em construção 🚧
+Projeto realizado para aplicar habilidades desenvolvidas ao final do módulo de Front-End.
 
-<!-- Olá, Tryber!
+Projeto feito em grupo de 5 pessoas composto por:
+Anna Beatriz Trajano de Sá, 
+Lucas Mesquita, 
+Mariah Manetti Rodrigues, 
+Pedro Bianchi
+Rafael Friedel (eu) =D
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Projeto realizado 100% dos requisitos obrigatórios.
 
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+Entregue dentro de 6 dias de programação.

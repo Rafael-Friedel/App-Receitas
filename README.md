@@ -22,3 +22,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ### Desafios
 
 Realizer um projeto Full-stack em grupo, em um curto periodo de tempo, com uma boa experiência ao usuário
+
+
+[Link da aplicação](https://app-receitas-theta.vercel.app/)

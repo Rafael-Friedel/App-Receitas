@@ -17,6 +17,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - ReactHooks
 - ContextApi
 - JavaScript
+- Jest
 
 
 ### Desafios

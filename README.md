@@ -9,6 +9,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] trazer um gif da aplicação funcionando
 - [ ] implementar mais testes
 - [ ] criar dockerfile e dockercompose
+- [ ] implementar cards de recomendação
 
 ### Tecnologias utilizadas:
 

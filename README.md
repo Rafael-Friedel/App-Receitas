@@ -1,28 +1,24 @@
-<details>
-<summary><strong> 🔰 Iniciando o projeto</strong></summary><br />
+# App-Receitas
 
-1. Clone o repositório
-   `git clone git@github.com:Rafael-Friedel/App-Receitas.git `
+> A ideia do projeto é criar uma aplicação front-end onde o usuário consiga fazer o login, buscar por receitas, e acompanhar as receitas nas quais já foram feitas. A parte de login não tem contato com banco de dados, existe validações de inserir e-mail válido e a senha precisa ser maior que 5 digitos para o botao de enter ficar habilitado.
 
-- Entre na pasta do repositório que você acabou de clonar:
+### Ajustes e melhorias
 
-  - `cd App-Receitas`
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-  - Instale as dependências [**Caso existam**] \*`npm install`
+- [ ] trazer um gif da aplicação funcionando
+- [ ] implementar mais testes
+- [ ] criar dockerfile e dockercompose
 
-  - Inicie o projeto para visualizar \*`npm start`
+### Tecnologias utilizadas:
 
-</details>
+- React
+- CSS
+- ReactHooks
+- ContextApi
+- JavaScript
 
-Projeto realizado para aplicar habilidades desenvolvidas ao final do módulo de Front-End.
 
-Projeto feito em grupo de 5 pessoas composto por:
-Anna Beatriz Trajano de Sá, 
-Lucas Mesquita, 
-Mariah Manetti Rodrigues, 
-Pedro Bianchi e
-Rafael Friedel (eu) =D
+### Desafios
 
-Projeto realizado 100% dos requisitos obrigatórios.
-
-Entregue dentro de 6 dias de programação.
+Realizer um projeto Full-stack em grupo, em um curto periodo de tempo, com uma boa experiência ao usuário

@@ -4,7 +4,7 @@
 
 ## 🚀 Link de acesso do app
 
-Segue o link da aplicação para poderem testar minha aplicação. Usei o vercel para subir a aplicação. [Aplicativo de receitas](https://app-receitas-theta.vercel.app/).
+Segue o link da aplicação [Aplicativo de receitas](https://app-receitas-theta.vercel.app/).
 
 ### Ajustes e melhorias
 
